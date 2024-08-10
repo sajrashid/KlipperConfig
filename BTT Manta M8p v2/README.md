@@ -1,5 +1,8 @@
+# Klipper Configuration for Manta M8P v2.0
 
-# Klipper Command to flash via DFU
+  Firmware MCU selection STM32H723 with a "128KiB bootloader" "25 MHz &crystal"
+
+## Klipper Command to flash via DFU
 
 After the sd-card has been imaged
 
