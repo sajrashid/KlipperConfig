@@ -1,4 +1,5 @@
-****BOM 
+# BOM
+> **(Bill of Materials)**
 
 
 |Item  |Quantity  |Link  |Comments  |
@@ -11,4 +12,4 @@
 |Meanwell 24v PSU 350w     |     1    |  [Use local supplier](RS) |Use HQ PSU|
 |Solid State Relay     |   1      |   [AliExpress](http://aliexpress.com/)   |Required, if using copy relays from AL, replace with Local Originals|
 |Voron AC Bed heater 700w      |       1  |   [AliExpress](http://aliexpress.com/)      |  |Required|
-|Row9     |      blank   |  blank       |  > [!IMPORTANT]> Do not leave a space after the =   |
+|Row9     |      blank   |  blank       |  blank   |
