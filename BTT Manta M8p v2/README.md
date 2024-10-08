@@ -29,4 +29,6 @@ Copy the device id and replace after the **=** sign
 > [!IMPORTANT]
 > Do not leave a space after the =
 
-`make serialflash FLASH_DEVICE=/dev/serial/by-id/usb-Klipper_stm32h723xx_2D003F001751313434373135-if00****`
+`make serialflash FLASH_DEVICE=/dev/serial/by-id/usb-Klipper_stm32h723xx_2D003F001751313434373135-if00
+
+****`
