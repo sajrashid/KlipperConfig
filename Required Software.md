@@ -1,6 +1,6 @@
 # Required Software
 
-[Visual Studio code](https://code.visualstudio.com/Download) *x64 Arm64*
+[Visual Studio code](https://code.visualstudio.com/Download) **click on** *System Installer x64 Arm64*
 
 [Orca Slicer](https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.1.1)
 
